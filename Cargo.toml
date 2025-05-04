@@ -7,3 +7,4 @@ edition = "2024"
 reqwest = "0.12.15"
 scraper = { version = "0.23.1", features = ["serde"] }
 tokio = { version = "1.44.2", features = ["full"] }
+
